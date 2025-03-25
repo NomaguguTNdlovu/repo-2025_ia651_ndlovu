@@ -19,8 +19,15 @@ Structure: 16 710R * 65C
 168 Nationalities represented
 16 089 Unique players represented
 
-### Justification of data source period
+## Variables
+Train a regression model on player attributes (independent variables) to predict wages (dependent variables).
+Use feature engineering to extract meaningful insights (e.g., impact of position, league, skill rating).
+Validate against real-world transfer market data (e.g., Transfermarkt, soccer clubs financial reports).
+
+
+### Justification of data choice and period
 While more recent data might offer some advantages, the 2022 dataset proved to provide a strong foundation for achieving the project's objectives of exploring relationships, developing predictive models, and providing actionable insights for football because of the vast attributes it contained.
+
 
 ## Project Plan
 Data Cleaning > Data Pre-Processing > Exploratory Analysis > Feature Engineering (PCA) > Model Training and Building > Model Evaluation > Model Selection
@@ -44,13 +51,34 @@ Data Cleaning > Data Pre-Processing > Exploratory Analysis > Feature Engineering
 -Goalkeepers (GK) and defenders (CB, RCB, LCB, etc.) have more stable and moderate wages.
 
 
+
 ![Corr-Matrx](https://github.com/user-attachments/assets/0b65f0a3-159a-41b4-8554-8c284fa4b296)
+
+-Positioning is a key feature in the dataset and shows a strong correlation with various other attributes such as Finishing, Dribbling, and Longshots.
+-Agility is another important factor, which is closely linked to Balance, Sprint Speed, and Acceleration. 
+
+
+
+
+![radar](https://github.com/user-attachments/assets/87ebb238-3f89-4247-9ee4-64162f2416ff)
 
 -The radar chart visually highlights the strengths and weaknesses of each player based on their attributes.
 -Messi and Neymar Jr dominate in technical skills (Dribbling, Finishing, Agility).
 -Lewandowski is the strongest physically, making him an ideal target striker.
 -De Bruyne excels in passing, making him a top playmaker.
 -Oblak, as a goalkeeper, has significantly lower ratings in these outfield skills, reinforcing his specialized role.
+
+
+# Going Forward
+Feature Engineering (PCA) > Model Training and Building > Model Evaluation > Model Selection
+
+
+
+# Alternative plan if proposed prediction does not work out
+-
+
+
+
 
 
 
