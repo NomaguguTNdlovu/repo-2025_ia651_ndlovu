@@ -77,7 +77,7 @@ Model Training and Building > Model Evaluation > Model Selection
 
 
 # Alternative plan if proposed prediction does not work out
--
+- Source and use data for 1 big league for this prediction.
 
 
 
