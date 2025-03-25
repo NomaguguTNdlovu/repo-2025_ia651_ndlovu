@@ -32,7 +32,25 @@ Data Cleaning > Data Pre-Processing > Exploratory Analysis > Feature Engineering
 ### Exploratory Analysis
 ![Age Dist](https://github.com/user-attachments/assets/cdd8faea-c15a-4cd5-becf-30dc86db67e2)
 
+-The right-skewedness of the distribution shows that younger individuals dominate the dataset, while older ages are less frequent.
+-The median age is 25 years
+
+
+
 ![Main Effects Plot](https://github.com/user-attachments/assets/5a301ba2-7ae7-46b1-aee4-215b82a9a473)
+
+-There is a significant spike for the CF (Center Forward) position, with wages exceeding €50,000, making it an outlier.
+-The RES (Reserve) position has a notably low mean wage, likely because reserves are typically lower-paid players.
+-Goalkeepers (GK) and defenders (CB, RCB, LCB, etc.) have more stable and moderate wages.
+
+
+![Corr-Matrx](https://github.com/user-attachments/assets/0b65f0a3-159a-41b4-8554-8c284fa4b296)
+
+-The radar chart visually highlights the strengths and weaknesses of each player based on their attributes.
+-Messi and Neymar Jr dominate in technical skills (Dribbling, Finishing, Agility).
+-Lewandowski is the strongest physically, making him an ideal target striker.
+-De Bruyne excels in passing, making him a top playmaker.
+-Oblak, as a goalkeeper, has significantly lower ratings in these outfield skills, reinforcing his specialized role.
 
 
 
