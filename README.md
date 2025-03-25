@@ -30,6 +30,8 @@ Data Cleaning > Data Pre-Processing > Exploratory Analysis > Feature Engineering
 ### Data Pre-Processing
 
 ### Exploratory Analysis
+![Age Dist](https://github.com/user-attachments/assets/cdd8faea-c15a-4cd5-becf-30dc86db67e2)
+
 
 
 
