@@ -70,7 +70,7 @@ Data Cleaning > Data Pre-Processing > Exploratory Analysis > Feature Engineering
 
 
 # Going Forward
-Feature Engineering (PCA) > One-Hot Encoding: Convert categorical variables like position into numerical form.Log Transformation: Apply to skewed features like wages to handle extreme outliers.
+Feature Engineering > One-Hot Encoding: Convert categorical variables like position into numerical form.Log Transformation: Apply to skewed features like wages to handle extreme outliers.
 
 Model Training and Building > Model Evaluation > Model Selection
 
