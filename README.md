@@ -1,4 +1,4 @@
-# repo-2025_ia651_ndlovu
+# Predicting Soccer Player Wages Using Machine Learning Models
 
 # Introduction
 The current subjective methods for determining soccer player value and wages often lead to inefficienct player recruitment, inequitable salary negotiations, and suboptimal contract offers for soccer players, hence the need to bridge the gap.
